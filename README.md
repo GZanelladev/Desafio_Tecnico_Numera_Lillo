@@ -1,6 +1,6 @@
 # Desafio Numera - Clusterização de Clientes - Gelateria Lillo
 
-##Glauco Pavanelli Zanella
+## Glauco Pavanelli Zanella
 
 ## Introdução
 A gelateria Lillo é muito famosa na capital mineira e vende gelatos de altíssima qualidade com foco no público de classe B+. Quando um cliente compra algum produto, é incentivado que ele preencha seu cpf, email e telefone para receber promoções e novidades. Com esses dados, a gelateria possui uma base de clientes robusta.
